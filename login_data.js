@@ -1,0 +1,1 @@
+export const item = {"app_name": "order", "id": "e1f04649-54f5-41d2-b270-7f356a0bf16e", "login_title": "price", "or_label": "song", "create_account_label": "different"}
